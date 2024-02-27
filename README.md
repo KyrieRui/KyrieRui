@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ray
 ================================================================================================================================
 
-Junior Developer, AI Engineer, Dev Blogger, Tutors
+Developer, AI Engineer, Dev Blogger, Tutors
 --------------------------------------------------
 
 With a Bachelor's Degree in Computer Science from Victoria University of Wellington, I am self-motivated and adaptable, and I bring a wealth of technical expertise and a passion for innovation to my role as Junior Artificial Intelligence Open Programmer at Bay of Plenty Regional Council.
